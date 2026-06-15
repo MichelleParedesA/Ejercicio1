@@ -1,0 +1,9 @@
+CONCLUSIONES
+
+1. Se implementó exitosamente una prueba automatizada E2E utilizando Serenity BDD, Selenium WebDriver y Java 17, validando el flujo completo de compra en la plataforma Demoblaze.
+
+2. La automatización permitió verificar de manera confiable la adición de dos productos al carrito, la visualización de los artículos seleccionados y la finalización exitosa del proceso de compra.
+
+3. El uso de esperas explícitas (WebDriverWait) mejoró la estabilidad de la prueba, reduciendo problemas relacionados con tiempos de carga y sincronización de elementos en la aplicación web.
+
+4. Serenity BDD facilitó la generación de reportes de ejecución, proporcionando evidencia clara de los resultados obtenidos y permitiendo una mejor trazabilidad de la prueba automatizada.
